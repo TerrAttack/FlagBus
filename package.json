@@ -1,0 +1,9 @@
+{
+  "name": "com.leon.flagbus",
+  "author": {
+    "name": "Leon McCall"
+  },
+  "version": "1.0.0",
+  "displayName": "Flag Bus",
+  "description": "An flag system for unity"
+}
