@@ -1,0 +1,16 @@
+{
+    "name": "Utils.Flagbus.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Utils.Flagbus"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
